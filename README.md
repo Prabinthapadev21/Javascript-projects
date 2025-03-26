@@ -1,2 +1,3 @@
 # Javascript-projects
 Different javascript projects
+Here you can learn many projects using javascript which will help you to strengthen your javascript skills...
